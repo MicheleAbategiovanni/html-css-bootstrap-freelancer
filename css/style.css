@@ -1,22 +1,27 @@
-img{
+img {
     width: 200px;
 }
 
-.bg-light-marine{
+.bg-light-marine {
     background-color: #1ABC9C;
 }
 
-.bg-light-grey{
+.bg-light-grey {
     background-color: #3A546D;
 }
 
-.bg-grey{
+.bg-grey {
     background-color: #2C3E50;
 }
 
-.border-input{
+.border-input {
     border-top: 0;
     border-left: 0;
     border-right: 0;
     color: black;
+}
+
+.row div,
+.container-fluid div {
+    margin-bottom: 1rem;
 }
