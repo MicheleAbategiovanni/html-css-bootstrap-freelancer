@@ -9,3 +9,10 @@ img{
 .bg-light-marine{
     background-color: #1ABC9C;
 }
+
+.border-input{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    color: black;
+}
