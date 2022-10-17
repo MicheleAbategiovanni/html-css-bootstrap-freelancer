@@ -6,6 +6,10 @@
     background-color: #1ABC9C;
 }
 
+.text-light-marine {
+    color: #1ABC9C;
+}
+
 .bg-light-grey {
     background-color: #3A546D;
 }
@@ -21,6 +25,6 @@
     color: black;
 }
 
-.row div{
-    margin-bottom: 1rem;
+.font-0_7{
+    font-size: 0.7rem;
 }
