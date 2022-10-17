@@ -1,13 +1,17 @@
-header, footer{
-    background-color: #2C3E50;
-}
-
 img{
     width: 200px;
 }
 
 .bg-light-marine{
     background-color: #1ABC9C;
+}
+
+.bg-light-grey{
+    background-color: #3A546D;
+}
+
+.bg-grey{
+    background-color: #2C3E50;
 }
 
 .border-input{
