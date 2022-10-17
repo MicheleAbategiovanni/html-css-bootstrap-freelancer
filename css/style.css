@@ -21,7 +21,6 @@ img {
     color: black;
 }
 
-.row div,
-.container-fluid div {
+.row div{
     margin-bottom: 1rem;
 }
