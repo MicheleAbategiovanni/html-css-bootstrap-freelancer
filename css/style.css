@@ -32,3 +32,9 @@
 .font-0_7 {
     font-size: 0.7rem;
 }
+
+.border-star{
+    width: 100px;
+    height: 0px;
+    border: 1px solid white;
+}
