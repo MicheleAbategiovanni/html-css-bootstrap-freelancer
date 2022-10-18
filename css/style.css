@@ -31,6 +31,7 @@
     border-left: 0;
     border-right: 0;
     color: black;
+    border-radius: 0;
 }
 
 .font-0_7 {
@@ -51,4 +52,8 @@
 
 .fa-star {
     margin: 0 .5rem;
+}
+
+footer .row div>* {
+    margin-bottom: 1rem;
 }
