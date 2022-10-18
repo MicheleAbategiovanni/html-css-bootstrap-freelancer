@@ -37,8 +37,14 @@
     font-size: 0.7rem;
 }
 
-.border-star{
+.border-star-l{
     width: 100px;
+    height: 0px;
+    border: 1px solid ;
+}
+
+.border-star{
+    width: 70px;
     height: 0px;
     border: 1px solid ;
 }
