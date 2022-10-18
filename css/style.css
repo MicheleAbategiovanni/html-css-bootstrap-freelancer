@@ -14,7 +14,7 @@
     color: #1ABC9C;
 }
 
-.text-grey{
+.text-grey {
     color: #2C3E50;
 }
 
@@ -37,18 +37,18 @@
     font-size: 0.7rem;
 }
 
-.border-star-l{
+.border-star-l {
     width: 100px;
     height: 0px;
-    border: 1px solid ;
+    border: 1px solid;
 }
 
-.border-star{
+.border-star {
     width: 70px;
     height: 0px;
-    border: 1px solid ;
+    border: 1px solid;
 }
 
-.fa-star{
+.fa-star {
     margin: 0 .5rem;
 }
