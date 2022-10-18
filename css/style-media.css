@@ -5,4 +5,7 @@
         flex-direction: row;
     }
     
+    .fa-star-md{
+        margin: 0 1.5rem;
+    }
 }
